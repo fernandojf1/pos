@@ -8,14 +8,36 @@
     "A distância",
     "Semipresencial"
   ],
+  "AreaAvaliacaoSS": [
+    {
+      "idAreaAvaliacaoSS": 1,
+      "areaAvalicao": "Teste"
+    }
+  ],
+  "GrandeArea": [
+    {
+      "idGrandeArea": 1,
+      "sigla": "Tt",
+      "grandearea": "Teste",
+      "codCapes": "123"
+    }
+  ],
   "Pessoa": [
     {
       "idPessoa": 1,
       "nome": "Roberto Carlos"
     },
     {
-      "id": 2,
+      "idPessoa": 2,
       "name": "Erasmo Carlos"
+    }
+  ],
+  "Usuario": [
+    {
+      "idUsuario": 1
+    },
+    {
+      "idUsuario": 2
     }
   ]
 }
