@@ -1,4 +1,9 @@
 {
+    "responses": [
+    "ACTION_TAKEN",
+    "IGNORED",
+    "UNDETECTED"
+  ],
   "products": [
     {
       "id": 1,
