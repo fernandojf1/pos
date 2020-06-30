@@ -1,8 +1,12 @@
 {
-    "responses": [
-    "ACTION_TAKEN",
-    "IGNORED",
-    "UNDETECTED"
+  "TipoSS": [
+    "Acadêmico",
+    "Profissional"
+  ],
+  "Modalidade": [
+    "Presencial",
+    "A distância",
+    "Semipresencial"
   ],
   "products": [
     {
