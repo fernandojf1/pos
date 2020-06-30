@@ -1,0 +1,25 @@
+{
+  "TipoSS": [
+    "Acadêmico",
+    "Profissional"
+  ],
+  "Modalidade": [
+    "Presencial",
+    "A distância",
+    "Semipresencial"
+  ],
+  "AreaAvaliacaoSS": [
+    {
+      "idAreaAvaliacaoSS": 1,
+      "areaAvalicao": "Teste"
+    }
+  ],
+  "GrandeArea": [
+    {
+      "idGrandeArea": 1,
+      "sigla": "Tt",
+      "grandearea": "Teste",
+      "codCapes": "123"
+    }
+  ]
+}
